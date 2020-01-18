@@ -1,1 +1,2 @@
 Icons by FontAwesome https://fontawesome.com/license/free
+Auth logic from aws-serverless-workshops https://github.com/aws-samples/aws-serverless-workshops/blob/master/LICENSE
