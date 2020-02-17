@@ -5,3 +5,4 @@ Proof of concept for AWS serverless application. More details to follow. This wi
 [moderatio.xyz](http://moderatio.xyz/)
 
 - [moderation-static](https://github.com/ikenley/moderatio-static): Static front-end
+- [moderation-api](https://github.com/ikenley/moderatio-api): Amazon API Gateway => Lambda back-end
